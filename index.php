@@ -1,1 +1,1 @@
-<?php echo "r2-old-head";
+<?php echo "r2-new-head";
