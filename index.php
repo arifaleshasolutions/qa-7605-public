@@ -1,1 +1,1 @@
-<?php echo "pr-v2-after-regen";
+<?php echo "pr-v3-after-api-regen";
