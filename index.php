@@ -1,1 +1,1 @@
-<?php echo "pr-v3-after-api-regen";
+<?php echo "r2-old-head";
